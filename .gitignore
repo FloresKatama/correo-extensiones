@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+myvenv
+dbfloreskatama.sqlite3
+.DS_Store
